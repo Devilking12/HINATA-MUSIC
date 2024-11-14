@@ -72,7 +72,7 @@ Together, we can make **YukkiMusic** and **YukkiMusicBot** even better!
 
 ## Contributors
 
-[![Contributors](https://contrib.nn.ci/api?repo=moonshining1/Annie-Music&radius=100)](https://github.com/TheTeamVivek/YukkiMusic/graphs/contributors)
+[![Contributors](https://contrib.nn.ci/api?repo=Devilking12/Hinata-Music&radius=100)](https://github.com/TheTeamVivek/YukkiMusic/graphs/contributors)
 
 ---
 
