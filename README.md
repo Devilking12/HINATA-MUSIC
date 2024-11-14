@@ -1,6 +1,6 @@
 # 🎵 [🇬🇧] ˹ʜɪɴᴀᴛᴀ ✗ ᴍᴜ𝘀ɪᴄ˼ 🎶
 
-[Annie Music](https://github.com/moonshining1/Annie-Music) is an updated version of [AnnieMusicBot](https://github.com/moonshining1/Annie-Music) for streaming in Telegram voice chats. Built with Python and Pyrogram, it offers high-quality streaming. 🚀
+[Hinata Music](https://github.com/Devilking12/Hinata-Music) is an updated version of [HinataMusicBot](https://github.com/moonshining1/Annie-Music) for streaming in Telegram voice chats. Built with Python and Pyrogram, it offers high-quality streaming. 🚀
 
 If you’re using or forking this project, please ⭐ star the original repo: [AnnieMusicBot](https://github.com/moonshining1/Annie-Music) to show support! 🙌
 
