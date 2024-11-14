@@ -1,4 +1,4 @@
-# 🎵 **Annie Music** 🎶
+# 🎵 [🇬🇧] ˹ʜɪɴᴀᴛᴀ ✗ ᴍᴜ𝘀ɪᴄ˼ 🎶
 
 [Annie Music](https://github.com/moonshining1/Annie-Music) is an updated version of [AnnieMusicBot](https://github.com/moonshining1/Annie-Music) for streaming in Telegram voice chats. Built with Python and Pyrogram, it offers high-quality streaming. 🚀
 
