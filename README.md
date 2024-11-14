@@ -1,14 +1,14 @@
 # 🎵 [🇬🇧] ˹ʜɪɴᴀᴛᴀ ✗ ᴍᴜ𝘀ɪᴄ˼ 🎶
 
-[Hinata Music](https://github.com/Devilking12/Hinata-Music) is an updated version of [HinataMusicBot](https://github.com/moonshining1/Annie-Music) for streaming in Telegram voice chats. Built with Python and Pyrogram, it offers high-quality streaming. 🚀
+[HINATA MUSIC](https://github.com/Devilking12/HINATA-MUSIC) is an updated version of [HINATAMUSICBOT](https://github.com/Devilking12/HINATA-MUSIC) for streaming in Telegram voice chats. Built with Python and Pyrogram, it offers high-quality streaming. 🚀
 
-If you’re using or forking this project, please ⭐ star the original repo: [HinataMusicBot](https://github.com/Devilking12/Hinata-Music) to show support! 🙌
+If you’re using or forking this project, please ⭐ star the original repo: [HINATAMUSICBOT](https://github.com/Devilking12/HINATA-MUSIC) to show support! 🙌
 
 ---
 
 ## 🚀 Heroku Deployment
 
-Deploy **Annie Music Bot** on Heroku easily:
+Deploy **𝐇𝐈𝐍𝐀𝐓𝐀 Music Bot** on Heroku easily:
 
 <a href="https://dashboard.heroku.com/new?template=https://github.com/moonshining1/Annie-Music"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a>
 
