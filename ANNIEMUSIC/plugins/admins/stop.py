@@ -249,7 +249,7 @@ async def brah(_, msg):
 async def brah2(_, msg):
     chat_id = msg.chat.id
     try:
-        await msg.reply("**😕gadari karbe💔**")
+        await msg.reply("**😕gaddari karbe💔**")
         await ANNIE.st_stream(chat_id)
         await set_loop(chat_id, 0)
     except Exception as e:
