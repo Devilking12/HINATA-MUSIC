@@ -468,7 +468,7 @@ async def about_callback(client: Client, callback_query: CallbackQuery):
             ),
         ],
         [
-            InlineKeyboardButton(text="🎄 Galaxy 🎄", callback_data="galaxy"),
+            InlineKeyboardButton(text="🎄 🇸ʜɪɴᴏʙɪ 🎄", callback_data="galaxy"),
             InlineKeyboardButton(text="⭐ Help ⭐", callback_data="features"),
         ],
         [
@@ -486,7 +486,7 @@ async def feature_callback(client: Client, callback_query: CallbackQuery):
     keyboard = [
         [
             InlineKeyboardButton(
-                text="🎄 Galaxy 🎄",
+                text="🎄 🇸ʜɪɴᴏʙɪ 🎄",
                 callback_data="galaxy",
             ),
         ],
@@ -666,7 +666,7 @@ async def feature_callback(client: Client, callback_query: CallbackQuery):
     keyboard = [
         [
             InlineKeyboardButton(
-                text="🎄 Galaxy 🎄",
+                text="🎄 🇸ʜɪɴᴏʙɪ 🎄",
                 callback_data="galaxy",
             ),
         ],
