@@ -13,6 +13,10 @@ Deploy **𝐇𝐈𝐍𝐀𝐓𝐀 Music Bot** on Heroku easily:
 <a href="https://dashboard.heroku.com/new?template=https://github.com/moonshining1/Annie-Music"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a>
 
 ---
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Devilking12-MUSIC)
+
+
+
 ## 🖇️ VPS Deployment Guide
 
 1. **Clone the Repository**
