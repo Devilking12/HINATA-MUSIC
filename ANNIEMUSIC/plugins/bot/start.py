@@ -29,7 +29,7 @@ from config import BANNED_USERS
 from strings import get_string
 
 YUMI_PICS = [
-    "https://files.catbox.moe/xhpqtp.jpg",
+    "https://files.catbox.moe/sevkr4.jpg",
 ]
 
 STICKER_ID = "CAACAgUAAxkDAAIEBWcjprCQjcBxs8A_vw8-HOxt3w8dAAIeCgACya4ZVWcoG8RVlky8NgQ"  # Replace with your sticker ID
