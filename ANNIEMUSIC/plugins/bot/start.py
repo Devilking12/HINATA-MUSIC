@@ -1,4 +1,4 @@
-import time
+iimport time
 import random
 from pyrogram import filters
 from pyrogram.enums import ChatType
@@ -32,7 +32,7 @@ YUMI_PICS = [
     "https://files.catbox.moe/sevkr4.jpg",
 ]
 
-STICKER_ID = "CAACAgUAAxkDAAIEBWcjprCQjcBxs8A_vw8-HOxt3w8dAAIeCgACya4ZVWcoG8RVlky8NgQ"  # Replace with your sticker ID
+STICKER_ID = "CAACAgUAAxkBAAIEGWc4UZED9BeUxJZpL7-P3g89Z4vSAALaDQACiknYVxq5uel8MNYsHgQ"  # Replace with your sticker ID
 
 @app.on_message(filters.command(["start"]) & filters.private & ~BANNED_USERS)
 @LanguageStart
