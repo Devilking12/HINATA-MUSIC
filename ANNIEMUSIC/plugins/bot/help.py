@@ -462,7 +462,7 @@ async def tools_callback_cb(client, CallbackQuery, _):
 async def about_callback(client: Client, callback_query: CallbackQuery):
     buttons = [
         [
-            InlineKeyboardButton(text="🇲σ᭡፝֟ɳ🌙", url=f"https://t.me/about_ur_moonshining/5"),
+            InlineKeyboardButton(text="ॐ≛⃝ ⊱🇷𝐀𝐈⊰𓆩𝐒𝐇𝐀𝐁¬⃡⛦⃕͜☻ﮩ٨꯭⟶", url=f"https://t.me/about_ur_moonshining/5"),
             InlineKeyboardButton(
                 text="Owner's clan 🎄", url=f"https://t.me/grandxmasti"
             ),
@@ -476,7 +476,7 @@ async def about_callback(client: Client, callback_query: CallbackQuery):
         ],  # Use a default label for the back button
     ]
     await callback_query.message.edit_text(
-        "**Hey,**\n\n**I am Annie bot ✨**\n**I am created with love by my [🇲σ᭡፝֟ɳ](https://t.me/about_ur_moonshining/5)🌙 ❤.**",
+        "**Hey,**\n\n**I am Annie bot ✨**\n**I am created with love by my [ॐ≛⃝ ⊱🇷𝐀𝐈⊰𓆩𝐒𝐇𝐀𝐁¬⃡⛦⃕͜☻ﮩ٨꯭⟶](https://t.me/about_ur_moonshining/5)🌙 ❤.**",
         reply_markup=InlineKeyboardMarkup(buttons),
     )
 
