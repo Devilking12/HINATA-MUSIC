@@ -809,7 +809,7 @@ async def back_button_callback(client: Client, callback_query: CallbackQuery):
         ],
         [
             InlineKeyboardButton(text="Annie updates", url=f"https://t.me/kittyxupdates"),
-            InlineKeyboardButton(text="Share ur query💡", url=f"https://t.me/pwmbothub"),
+            InlineKeyboardButton(text="Share ur query💡", url=f"https://t.me/Assaulted_dark_bot"),
         ],
         [InlineKeyboardButton(text="✯ ʜᴏᴍᴇ ✯", callback_data="go_to_start")],
     ]
@@ -830,7 +830,7 @@ async def back_button_callback(client: Client, callback_query: CallbackQuery):
         ],
         [
             InlineKeyboardButton(text="Annie updates", url=f"https://t.me/kittyxupdates"),
-            InlineKeyboardButton(text="Share ur query💡", url=f"https://t.me/pwmbothub"),
+            InlineKeyboardButton(text="Share ur query💡", url=f"https://t.me/Assaulted_dark_bot"),
         ],
         [InlineKeyboardButton(text="✯ ʜᴏᴍᴇ ✯", callback_data="go_to_start")],
     ]
