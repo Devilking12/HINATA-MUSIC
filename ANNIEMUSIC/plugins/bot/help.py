@@ -462,9 +462,9 @@ async def tools_callback_cb(client, CallbackQuery, _):
 async def about_callback(client: Client, callback_query: CallbackQuery):
     buttons = [
         [
-            InlineKeyboardButton(text="ॐ≛⃝ ⊱🇷𝐀𝐈⊰𓆩𝐒𝐇𝐀𝐁¬⃡⛦⃕͜☻ﮩ٨꯭⟶", url=f"https://t.me/about_ur_moonshining/5"),
+            InlineKeyboardButton(text="ॐ≛⃝ ⊱🇷𝐀𝐈⊰𓆩𝐒𝐇𝐀𝐁¬⃡⛦⃕͜☻ﮩ٨꯭⟶", url=f"https://t.me/Its_Bhumihar_Op"),
             InlineKeyboardButton(
-                text="Owner's clan 🎄", url=f"https://t.me/grandxmasti"
+                text="Owner's clan 🎄", url=f"https://t.me/SHINOBI_WORLD_SUPPORT"
             ),
         ],
         [
@@ -786,7 +786,7 @@ async def back_button_callback(client: Client, callback_query: CallbackQuery):
         ],
         [
             InlineKeyboardButton(text="⛅Group⛅", url=f"https://t.me/TEAM_SHINOBI"),
-            InlineKeyboardButton(text="🎄Update🎄", url=f"https://t.me/kittyxupdates "),
+            InlineKeyboardButton(text="🎄Update🎄", url=f"https://t.me/SHINOBI_WORLD_SUPPORT"),
         ],
         [InlineKeyboardButton(text="✯ ʜᴏᴍᴇ ✯", callback_data="go_to_start")],
     ]
@@ -808,7 +808,7 @@ async def back_button_callback(client: Client, callback_query: CallbackQuery):
             ),
         ],
         [
-            InlineKeyboardButton(text="Annie updates", url=f"https://t.me/kittyxupdates"),
+            InlineKeyboardButton(text="Annie updates", url=f"https://t.me/SHINOBI_WORLD_SUPPORT"),
             InlineKeyboardButton(text="Share ur query💡", url=f"https://t.me/Assaulted_dark_bot"),
         ],
         [InlineKeyboardButton(text="✯ ʜᴏᴍᴇ ✯", callback_data="go_to_start")],
@@ -829,7 +829,7 @@ async def back_button_callback(client: Client, callback_query: CallbackQuery):
             ),
         ],
         [
-            InlineKeyboardButton(text="Annie updates", url=f"https://t.me/kittyxupdates"),
+            InlineKeyboardButton(text="Annie updates", url=f"https://t.me/SHINOBI_WORLD_SUPPORT"),
             InlineKeyboardButton(text="Share ur query💡", url=f"https://t.me/Assaulted_dark_bot"),
         ],
         [InlineKeyboardButton(text="✯ ʜᴏᴍᴇ ✯", callback_data="go_to_start")],
