@@ -486,8 +486,8 @@ async def feature_callback(client: Client, callback_query: CallbackQuery):
     keyboard = [
         [
             InlineKeyboardButton(
-                text="🎄 🇸ʜɪɴᴏʙɪ 🎄",
-                callback_data="galaxy",
+                text="🎄 sHINOBI 🎄",
+                callback_data="SHINOBI",
             ),
         ],
         [
@@ -666,8 +666,8 @@ async def feature_callback(client: Client, callback_query: CallbackQuery):
     keyboard = [
         [
             InlineKeyboardButton(
-                text="🎄 🇸ʜɪɴᴏʙɪ 🎄",
-                callback_data="galaxy",
+                text="🎄 SHINOBI 🎄",
+                callback_data="SHINOBI",
             ),
         ],
         [
@@ -797,7 +797,7 @@ async def back_button_callback(client: Client, callback_query: CallbackQuery):
     )
 
 
-@app.on_callback_query(filters.regex("galaxy"))
+@app.on_callback_query(filters.regex("SHINOBI"))
 async def back_button_callback(client: Client, callback_query: CallbackQuery):
     keyboard = [
         [
@@ -808,7 +808,7 @@ async def back_button_callback(client: Client, callback_query: CallbackQuery):
             ),
         ],
         [
-            InlineKeyboardButton(text="Annie updates", url=f"https://t.me/SHINOBI_WORLD_SUPPORT"),
+            InlineKeyboardButton(text="Shinobi updates", url=f"https://t.me/SHINOBI_WORLD_SUPPORT"),
             InlineKeyboardButton(text="Share ur query💡", url=f"https://t.me/Assaulted_dark_bot"),
         ],
         [InlineKeyboardButton(text="✯ ʜᴏᴍᴇ ✯", callback_data="go_to_start")],
