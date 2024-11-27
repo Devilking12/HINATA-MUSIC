@@ -836,7 +836,7 @@ async def back_button_callback(client: Client, callback_query: CallbackQuery):
     ]
     
     await callback_query.message.edit_text(
-        "Hey,\nThis is Annie bot 🦋\n\nAn open source telegram group management+ music bot\nHere is my source code [Repo](https://github.com/moonshining1/annie-music/fork) (✿◠‿◠)",
+        "Hey,\nThis is Annie bot 🦋\n\nAn open source telegram group management+ music bot\nHere is my source code [Repo](https://envs.sh/zOZ.jpg) (✿◠‿◠)",
         reply_markup=InlineKeyboardMarkup(keyboard),
     )
 
